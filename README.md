@@ -6,3 +6,5 @@
 
 安装依赖 npm install 
 直接运行  npm  run serve 
+
+![Image](https://github.com/Esports-Beethoven/coupon/blob/master/src/picture/index.png)
